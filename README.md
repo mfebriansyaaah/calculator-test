@@ -119,5 +119,4 @@ Vite will automatically pick another port if the default is already in use. Alwa
 
 ## Notes
 
-- Do not commit `node_modules/` or `dist/` (standard frontend practice).
 - If you replace the workbook file, keep the same filename and location: `public/floor-panel-properties.xlsx`.
