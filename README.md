@@ -14,7 +14,7 @@ The UI renders the same output blocks as the workbook, and the calculation uses 
 1. Clone the repository
 
    ```bash
-   git clone <YOUR_REPO_URL>
+   git clone https://github.com/mfebriansyaaah/calculator-test.git
    cd calculator-test
    ```
 
