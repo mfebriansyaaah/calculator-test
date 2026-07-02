@@ -1,10 +1,3 @@
-/**
- * This class to organize the input data for panel calculation
- * To Render the input data, you can use the following code:
- * 
- * const panelProperties = new PanelProperties();
- */
-
 import { MaterialGrade } from './type/material-grade-type.js';
 import { CLTLayerType } from './type/clt-layer-type.js';
 import { CLTLayupType } from './type/clt-layup-type.js';

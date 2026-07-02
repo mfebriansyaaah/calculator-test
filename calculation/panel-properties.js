@@ -1,13 +1,3 @@
-/**
- * Class Panel Properties is used to calculate the properties of panel CLT Layup.
- * Panel properties can calculate
- *  - Shear Analogy Method
- *  - Gamma Method
- * 
- * How to use : 
- * calculate(CLTLayup) => PanelProperties
- */
-
 import { unzipSync } from 'fflate';
 import { PanelPropertiesType } from '../type/panel-properties-type.js';
 
